@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T01:52:37.304866500Z</date>
+  <millis>1623117157304</millis>
+  <nanos>866500</nanos>
+  <sequence>4</sequence>
+  <logger>com.sm360.advertising</logger>
+  <level>WARNING</level>
+  <class>com.sm360.advertising.listing.ListingController</class>
+  <method>registerListing</method>
+  <thread>30</thread>
+  <message>Vehicle with id 1 already has a listing</message>
+</record>
